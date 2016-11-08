@@ -1,8 +1,8 @@
 BASE:
 3x prises 220V femelles (sorties)
 1x prise 220V male + interrupteur (entrée)
-	buzzer
-	connecteur RJ45
+buzzer
+connecteur RJ45
 	4x cables signaux
 
 COUVERCLE:
@@ -10,3 +10,4 @@ COUVERCLE:
 	1x bouton poussoir
 	1x ecran
 	1x photodiode
+	5x led 3mm
