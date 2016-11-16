@@ -5,13 +5,13 @@ A INTEGRER :
 	1x prise 220V male + interrupteur (entrée)
 	buzzer
 	connecteur RJ45
-		4x cables signaux
+	4x cables signaux
+	1x photodiode
 
 	COUVERCLE:
 		3x interrupteurs à levier
 		1x bouton poussoir
 		1x ecran
-		1x photodiode
 		5x led 3mm
 
 NOTES:
