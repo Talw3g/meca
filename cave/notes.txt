@@ -9,10 +9,10 @@ A INTEGRER :
 	1x photodiode
 
 	COUVERCLE:
-		3x interrupteurs à levier
-		1x bouton poussoir
-		1x ecran
-		5x led 3mm
+	3x interrupteurs à levier
+	1x bouton poussoir
+	1x ecran
+	5x led 3mm
 
 NOTES:
 	Attention au capteur extérieur : comment le protéger de la pluie, tout en laissant passer l'humidité ?
